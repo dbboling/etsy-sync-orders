@@ -4,7 +4,7 @@
 Plugin Name: Etsy Order Sync
 Plugin URI: https://example.com/etsy-order-sync/
 Description: This plugin syncs Etsy orders with WooCommerce.
-Version: 0.0.1
+Version: 0.0.2
 Author: Darrien Boling
 Author URI: https://dboling.com/
 License: GPLv2 or later
@@ -31,7 +31,7 @@ class Etsy_Order_Sync {
      *
      * @var string
      */
-    public static $plugin_version = '0.0.1';
+    public static $plugin_version = '0.0.2';
 
     /**
      * The plugin author.
